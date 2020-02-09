@@ -1,5 +1,4 @@
 #include "stdafx.h"
-#if 0
 struct dot
 {
 	float x, y;
@@ -140,4 +139,3 @@ int main()
 	}
 	system("pause");
 }
-#endif
