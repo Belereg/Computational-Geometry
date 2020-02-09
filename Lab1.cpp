@@ -1,6 +1,4 @@
-
 #include "stdafx.h"
-#if 0
 struct dot
 {
 	float x, y, z;
@@ -58,5 +56,3 @@ int main()
 		cout << "Punctele A, B, C NU sunt coliniare\n";
 	system("pause");
 }
-
-#endif
