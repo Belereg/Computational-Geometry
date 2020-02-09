@@ -1,5 +1,4 @@
 #include "stdafx.h"
-#if 0
 struct punct
 {
 	int x;
@@ -145,4 +144,3 @@ int main()
 	cout << "Intersectia este MULTIMEA VIDA\n";
 	return 0;
 }
-#endif
