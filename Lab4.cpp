@@ -1,5 +1,4 @@
 #include "stdafx.h"
-#if 0
 const double eps = 1e-6;
 const int N = 4;
 
@@ -109,4 +108,3 @@ int main()
 	}
 	return 0;
 }
-#endif
